@@ -1,7 +1,7 @@
 # Remote Desktop Control in Java
 
 
-Being a beginner in Java, I have referred this article : [RemoteDesktopControlJava](https://www.codeproject.com/Articles/36065/Java-Remote-Desktop-Administration)
+*Being a beginner in Java, I have referred this article : [RemoteDesktopControlJava](https://www.codeproject.com/Articles/36065/Java-Remote-Desktop-Administration). I learned a lot during the development*
 
 
 ## Brief description of project:
